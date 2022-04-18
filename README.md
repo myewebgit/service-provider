@@ -4,9 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you will have:
 
-### `npm start`
+### `Project Name`: MARK ACCOUNTANT
+### `Project Link`: https://github.com/programming-hero-web-course-4/independent-service-provider-myewebgit
+
+
+### `About My Project`:
+        ** To build this web site I have used html,css 
+        ** To build this web site I have used Visual studio Code, React-bootstarp 
+        ** To build this web site I have used firebase, freepic, photopia
+        ** To build this web site I have used firebase and react hooks
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
