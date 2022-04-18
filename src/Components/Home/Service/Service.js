@@ -10,7 +10,7 @@ const Service = ({service}) =>{
         navigate('/Services');
     }
     return (
-        <div className="service ">
+        <div className="service col-sm-12">
             {/* <img src={img} alt="" />
             <h3>This is service:{name}</h3>
             <p>Price: {price}</p>
