@@ -2,50 +2,50 @@
     
     {
         "id": 1,
-        "name": "Auditing",
-        "price": "100",
-        "description": "Business owners need all the benefits of an internal staff CPA, but most can't afford it. We help businesses with our Outsourced Accounting service; combining tax prep, tax planning, bookkeeping, payroll and year-round advisory into one simple service ",
-        "img": "https://i.ibb.co/xFR7nHg/5efc4d6b35ae9-manish-blocg-banner.png"
+        "name": "Accounting",
+        "price": "USD-1000/- per Job.",
+        "description": "Accounting is the process of recording financial transactions pertaining to a business. The accounting process includes summarizing, analyzing, and reporting these transactions to oversight agencies, regulators, and tax collection entities.",
+        "img": "https://i.ibb.co/7Jpk1c2/CA-Chartered-Accountant-Taxscan.jpg"
         
     },
     {
         "id": 2,
         "name": "Auditing",
-        "price": "100",
-        "description": "Business owners need all the benefits of an internal staff CPA, but most can't afford it. We help businesses with our Outsourced Accounting service; combining tax prep, tax planning, bookkeeping, payroll and year-round advisory into one simple service ",
-        "img": "https://i.ibb.co/xFR7nHg/5efc4d6b35ae9-manish-blocg-banner.png"
+        "price": "USD-1200/- per Job.",
+        "description": "Auditing is defined as the on-site verification activity, such as inspection or examination, or system, to ensure compliance to requirements. It is an entire organization or might be specific to a function, process, or production step. ",
+        "img": "https://i.ibb.co/4fB2BW5/Chartered-Accountancy.jpg"
         
     },
     {
         "id": 3,
-        "name": "Auditing",
-        "price": "100",
-        "description": "Business owners need all the benefits of an internal staff CPA, but most can't afford it. We help businesses with our Outsourced Accounting service; combining tax prep, tax planning, bookkeeping, payroll and year-round advisory into one simple service ",
-        "img": "https://i.ibb.co/xFR7nHg/5efc4d6b35ae9-manish-blocg-banner.png"
+        "name": "Bookkeeping",
+        "price": "USD-1500/- per Job.",
+        "description": "Bookkeeping is the process of recording your company's financial transactions into organized accounts on a daily basis. It can also refer to the different recording techniques. Bookkeeping is an essential part of  accounting process for a few reasons.",
+        "img": "https://i.ibb.co/qyKsBRk/c70476ec-f5f6-11e7-95e6-04e0a17510b6-1625013987674.jpg"
         
     },
     {
         "id": 4,
-        "name": "Auditing",
-        "price": "100",
-        "description": "Business owners need all the benefits of an internal staff CPA, but most can't afford it. We help businesses with our Outsourced Accounting service; combining tax prep, tax planning, bookkeeping, payroll and year-round advisory into one simple service ",
-        "img": "https://i.ibb.co/xFR7nHg/5efc4d6b35ae9-manish-blocg-banner.png"
+        "name": "Internal Auditing",
+        "price": "USD-2000/- per Job.",
+        "description": "Internal audits evaluate a company's internal controls,  its corporate governance and accounting processes. These audits ensure compliance with laws and regulations and help to maintain accurate and timely financial reporting and data collection. ",
+        "img": "https://i.ibb.co/7k6wHFc/whats-the-difference-between-accountant-chartered-accountant.jpg"
         
     },
     {
         "id": 5,
-        "name": "Auditing",
-        "price": "100",
-        "description": "Business owners need all the benefits of an internal staff CPA, but most can't afford it. We help businesses with our Outsourced Accounting service; combining tax prep, tax planning, bookkeeping, payroll and year-round advisory into one simple service ",
-        "img": "https://i.ibb.co/xFR7nHg/5efc4d6b35ae9-manish-blocg-banner.png"
+        "name": "Financial Auditing",
+        "price": "USD-2000/- per Job.",
+        "description": "A financial audit is an objective examination and evaluation of the financial statements of an organization to make sure that the financial records are a fair and accurate representation of the transactions they claim to represent.",
+        "img": "https://i.ibb.co/z6H2R94/images-1.jpg"
         
     },
     {
         "id": 6,
-        "name": "Auditing",
-        "price": "100",
-        "description": "Business owners need all the benefits of an internal staff CPA, but most can't afford it. We help businesses with our Outsourced Accounting service; combining tax prep, tax planning, bookkeeping, payroll and year-round advisory into one simple service ",
-        "img": "https://i.ibb.co/xFR7nHg/5efc4d6b35ae9-manish-blocg-banner.png"
+        "name": "Texation",
+        "price": "USD-1100/- per Job.",
+        "description": "Tax accounting is the subsector of accounting that deals with the preparations tax payments. Taxatio  is used by individuals, businesses, corporations and other entities.Qqualifying deductions, donations, and any investment gains or losses.",
+        "img": "https://i.ibb.co/6wFYB5C/download.jpg"
         
     }
 ]
